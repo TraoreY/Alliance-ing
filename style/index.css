@@ -1,0 +1,95 @@
+.imgPrincipal{
+    filter: brightness(50%);
+}
+.lienNav{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 125%;
+}
+.divCarroussel{
+    margin-top: 10%;
+}
+.boutonCarroussel{
+    border-radius: 200px;
+    width: 50px;
+    height: 50px;
+    margin-top: 8%;
+}
+.alliance{
+    font-size: 4em;
+}
+.btn-primary{
+    border-radius: 20px;
+}
+.presentation{
+    font-size: 125%;
+}
+.fig{
+    font-size: 110%;
+    font-weight: bold;
+}
+.mission{
+    background-color: #e3e3e3;
+}
+.titreMission{
+   color:#0754a3;
+   text-decoration: line;
+}
+.imgMission{
+    border-radius: 40px;
+    margin-left: 2%;
+}
+.textMission{
+    color:#0754a3;
+    font-size: 1.3em;
+}
+.card-group{
+    
+    margin-left: 5%;
+}
+.logoObjectif{
+    margin-right: 5%;
+}
+.textObjectif{
+    font-size: 1.2em;
+}
+.imgFormation{
+    filter: brightness(50%);
+}
+.boutonObjectif{
+    height: 50px;
+    background-color: #0754a3;
+}
+.moduleFormation{
+    margin-top: 45%;
+    
+}
+.card-footer{
+    background-color: #0754a3;
+    color:white;
+}
+.imagePartenaire{
+    border-radius: 40px;
+}
+.boutonActualite{
+    background-color: #0754a3;
+    width: 70%;
+    border-radius: 0px;
+}
+.temoignage{
+    border: solid black 1px;
+    border-radius: 20px;
+}
+.imgTemoin{
+    margin-top: 5px;
+}
+.menu{
+    color:#0754a3;
+
+}
+.contacter{
+    font-weight: bold;
+    color:black;
+}
+.freedev{
+    color:#0754a3;
+}

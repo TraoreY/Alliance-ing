@@ -1,0 +1,84 @@
+.lienNav{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 125%;
+}
+.divCarroussel{
+    margin-top: 10%;
+}
+.boutonCarroussel{
+    border-radius: 200px;
+    width: 50px;
+    height: 50px;
+    margin-top: 8%;
+}
+.alliance{
+    font-size: 4em;
+}
+.btn-primary{
+    border-radius: 20px;
+}
+.presentation{
+    font-size: 125%;
+}
+.imgActualite {
+    border-radius: 50px;
+}
+.texteActualite{
+    font-size: 1.2em;
+}
+.menu{
+    color:#0754a3;
+
+}
+/*****Formation*******/
+.imgPrincipal{
+    filter: brightness(50%);
+}
+.lesformations{
+    font-size: 1.3em;
+}
+.btnFormation{
+    background-color: #0754a3;
+    margin-left: 30%;
+}
+.imgFormation{
+    border: solid 1px;
+    border-color: #0754a3;
+    border-radius: 20px;
+}
+.titreFormation{
+    color:#0754a3;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-stretch: condensed;
+}
+.imagePartenaire{
+    border-radius: 40px;
+}
+.titreMission{
+    color:#0754a3;
+    text-decoration: line;
+ }
+ .boutonActualite{
+    background-color: #0754a3;
+    width: 70%;
+    border-radius: 0px;
+}
+/************ Prestation*********/
+.textePrestation{
+    font-size: 1.2em;
+}
+.titrePrestation{
+    font-weight: bold;
+    color: dark;
+}
+.contacter{
+    font-weight: bold;
+    color:black;
+}
+.boutonContacter{
+    background-color: #0754a3;
+}
+.freedev{
+    color:#0754a3;
+}
